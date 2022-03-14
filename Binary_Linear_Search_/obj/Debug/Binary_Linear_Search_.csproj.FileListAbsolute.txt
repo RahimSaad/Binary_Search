@@ -1,0 +1,7 @@
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\bin\Debug\Binary_Linear_Search_.exe.config
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\bin\Debug\Binary_Linear_Search_.exe
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\bin\Debug\Binary_Linear_Search_.pdb
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\obj\Debug\Binary_Linear_Search_.csprojAssemblyReference.cache
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\obj\Debug\Binary_Linear_Search_.csproj.CoreCompileInputs.cache
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\obj\Debug\Binary_Linear_Search_.exe
+E:\_my Coding\Algorithms\Binary_Linear_Search_\Binary_Linear_Search_\obj\Debug\Binary_Linear_Search_.pdb
